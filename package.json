@@ -1,14 +1,18 @@
 {
-  "name": "one-dark-syntax",
+  "name": "wombat-dark-syntax",
   "theme": "syntax",
-  "version": "0.7.1",
-  "description": "A dark syntax theme",
+  "version": "1.0.0",
+  "description": "Wombat Atom dark syntax theme.( Python / PHP / Javascript / Markdown )",
   "keywords": [
+    "wombat",
     "dark",
-    "blue",
-    "syntax"
+    "syntax",
+    "python",
+    "php",
+    "javascript",
+    "markdown"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "https://github.com/promek/wombat-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

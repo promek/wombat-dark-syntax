@@ -1,10 +1,17 @@
-## One Dark Syntax theme
+# Wombat Dark Syntax theme
 
-![one-dark-syntax](https://cloud.githubusercontent.com/assets/378023/7783203/49271ef6-0174-11e5-8eb1-d80b8d34a0e3.png)
+An [Atom](https://atom.io/) syntax theme. ( Python / PHP / Javascript / Markdown )
 
-> The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
+* Atom port of the Vim [Wombat](http://www.vim.org/scripts/script.php?script_id=1778) color scheme.
+* Converted from the [One Dark Syntax](https://github.com/atom/one-dark-syntax)
 
-There is also a matching [UI theme](https://atom.io/themes/one-dark-ui).
+## Screenshot
+
+* Javascript / HTML
+![w1](https://cloud.githubusercontent.com/assets/4887563/7851267/7a2cffe6-04f5-11e5-8aec-463d5e976434.jpg)
+
+* Python
+![w2](https://cloud.githubusercontent.com/assets/4887563/7851282/a3fd8624-04f5-11e5-8bff-1ab7a69ff220.jpg)
 
 ### Install
 

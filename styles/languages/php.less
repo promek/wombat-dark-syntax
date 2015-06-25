@@ -1,7 +1,4 @@
-.source.python {
-  .keyword.operator.logical.python {
-    color: @px-blue;
-  }
+.source.php {
   .entity {
     &.other {
       &.attribute-name {
@@ -21,12 +18,6 @@
     }
     &.type {
       color: @px-green;
-      &.exception.python {
-        color: @px-yellow;
-      }
-      &.python {
-        color: @px-yellow;
-      }
     }
     &.constant {
       color: @px-red;
@@ -36,12 +27,10 @@
     &.other.module {
       color: @px-yellow;
     }
+
   }
   .variable {
-    &.parameter,
-    &.other {
-      color: @px-red;
-    }
+      color: @px-text;
   }
   .constant {
     &.language,
