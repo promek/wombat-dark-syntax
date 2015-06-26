@@ -2,7 +2,7 @@
   "name": "wombat-dark-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "Wombat Atom Dark Syntax Theme.( Python / PHP / NodeJS / Markdown )",
+  "description": "Wombat Atom Dark Syntax Theme. ( Python, NodeJS, Markdown, PHP, HTML, CSS )",
   "keywords": [
     "wombat",
     "dark",
