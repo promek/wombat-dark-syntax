@@ -2,7 +2,7 @@
   "name": "wombat-dark-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "Wombat Atom dark syntax theme.( Python / PHP / Javascript / Markdown )",
+  "description": "Wombat Atom Dark Syntax Theme.( Python / PHP / NodeJS / Markdown )",
   "keywords": [
     "wombat",
     "dark",
@@ -10,6 +10,7 @@
     "python",
     "php",
     "javascript",
+    "nodejs",
     "markdown"
   ],
   "repository": "https://github.com/promek/wombat-dark-syntax",

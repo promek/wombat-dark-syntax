@@ -1,17 +1,12 @@
 @import "colors";
 
-// Custom Syntax Variables -----------------------------------
-
-@syntax-cursor-line: lighten(@syntax-background-color, 6%); //hsla(@syntax-hue, 100%,  80%, .04); // needs to be semi-transparent to show serach results
-@syntax-bracket-matcher-background-color: lighten(@syntax-background-color, 6%);
-
-
-// Official Syntax Variables -----------------------------------
+@syntax-cursor-line: lighten(@syntax-background-color, 6%);
+@syntax-bracket-matcher-background-color: @px-select;
 
 // General colors
 @syntax-text-color:            @px-text;
 @syntax-cursor-color:          @px-orange;
-@syntax-selection-color:       @px-select; //lighten(@syntax-background-color, 10%);
+@syntax-selection-color:       @px-select;
 @syntax-selection-flash-color: @px-orange;
 @syntax-background-color:      @px-back1;
 
@@ -25,9 +20,9 @@
 @syntax-result-marker-color-selected: @px-orange;
 
 // Gutter colors
-@syntax-gutter-text-color:                @px-comment;//darken(@px-text, 26%);
+@syntax-gutter-text-color:                @px-comment;
 @syntax-gutter-text-color-selected:       @px-text;
-@syntax-gutter-background-color:          @px-back3; // unused
+@syntax-gutter-background-color:          @px-back3;
 @syntax-gutter-background-color-selected: lighten(@px-back1, 2%);
 
 // Git colors - For git diff info. i.e. in the gutter
