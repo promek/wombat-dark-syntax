@@ -1,17 +1,17 @@
 {
   "name": "wombat-dark-syntax",
   "theme": "syntax",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Wombat Atom Dark Syntax Theme. ( Python, NodeJS, Markdown, PHP, HTML, CSS )",
   "keywords": [
-    "wombat",
-    "dark",
-    "syntax",
     "python",
     "php",
     "javascript",
     "nodejs",
-    "markdown"
+    "markdown",
+    "wombat",
+    "dark",
+    "syntax"    
   ],
   "repository": "https://github.com/promek/wombat-dark-syntax",
   "license": "MIT",
