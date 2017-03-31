@@ -2,13 +2,17 @@
   "name": "wombat-dark-syntax",
   "theme": "syntax",
   "version": "1.1.2",
-  "description": "Wombat Atom Dark Syntax Theme. ( Python, NodeJS, Markdown, PHP, HTML, CSS )",
+  "description": "Wombat Atom Dark Syntax Theme. ( Python, GoLang, Angular, Javascript, NodeJS, Markdown, PHP, HTML, CSS )",
   "keywords": [
     "python",
+    "golang",
+    "angular",
     "php",
     "javascript",
     "nodejs",
     "markdown",
+    "html",
+    "css",    
     "wombat",
     "dark",
     "syntax"

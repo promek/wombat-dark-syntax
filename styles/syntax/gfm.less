@@ -1,0 +1,34 @@
+.syntax--source.syntax--gfm {
+  .syntax--markup {
+    -webkit-font-smoothing: auto;
+
+    &.syntax--heading {
+      color: @px-orange;
+      font-weight:bold;
+    }
+    &.syntax--italic {
+        color:@px-yellow;
+        font-style: italic;    
+    }
+    &.syntax--bold {
+        color:@px-red;
+        font-weight:bold;
+    }
+    &.syntax--strike {
+        text-decoration:line-through;
+        color:@px-comment;
+    }
+    &.syntax--italic.syntax--bold {
+        color:@px-blue;
+        font-weight:bold;
+        font-style: italic;
+    }
+    &.syntax--raw {
+      color:@px-code;
+    }
+  }
+
+  .syntax--variable.syntax--unordered.syntax--list {
+    color: @px-blue;
+  }
+}
